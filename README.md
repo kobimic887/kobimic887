@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kobimic887
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning html
+- 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on buying microsoft
 - 📫 How to reach me: kolicyg@gmail.com
 
