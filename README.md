@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on javascript projects, school python and ftc robotics java<br>👯 I’m looking to collaborate on not too much, maybe so ftc coding<br>🤝 I’m looking for help with becoming microsoft's ceo<br>🌱 I’m currently learning javascript and java<br>💬 Ask me about python and html<br>⚡ Fun fact is no fun facts
+🔭 I’m currently working on javascript projects, school python and ftc robotics java; one can not forget about vibe coding<br>👯 I’m looking to collaborate on not too much, maybe so ftc coding<br>🤝 I’m looking for help with becoming microsoft's ceo<br>🌱 I’m currently learning javascript and java<br>💬 Ask me about python and html<br>⚡A Fun fact is 50 79 74 68 6f 6e 20 77 61 73 20 6e 61 6d 65 64 20 61 66 74 65 72 20 4d 6f 6e 74 79 20 50 79 74 68 6f 6e 2c 20 6e 6f 74 20 74 68 65 20 73 6e 61 6b 65 2e 
+
 
 
 ## 🌐 Socials:
